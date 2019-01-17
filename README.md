@@ -378,7 +378,7 @@ From @afshinea:
 
 - [Emacs (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Text_Editors/Emacs/How-to-learn-Emacs-v2-large.pdf)
 
-![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/Text_Editors/Emacs/How-to-learn-Emacs-v2-large.png)
+![](https://github.com/shrysr/ds-cheatsheets/blob/master/General/Text_Editors/Emacs/How-to-learn-Emacs-v2-large.png)
 
 By @ml874
 
